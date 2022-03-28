@@ -13,6 +13,9 @@ class RoomsController < ApplicationController
     # binding.pry
   end
 
+  def index
+  end
+
   private
 
   def room_params
